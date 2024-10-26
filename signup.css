@@ -1,0 +1,12 @@
+form{
+    align-items: center;
+    backdrop-filter: blur;
+    width: 350px;
+    height: 550px;
+    font-size: 20px;
+    padding: 10px;
+}
+body{
+    background: url(tejas.jpg)no-repeat;
+    background-size: cover;
+}
